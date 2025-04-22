@@ -22,7 +22,7 @@ img{
   border-radius: 25%;
   width: 100px; 
   height: 100px;
-  float: right;
+  float: right !important;
 }
 .menu {
   display: none;
