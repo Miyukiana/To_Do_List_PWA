@@ -14,15 +14,13 @@ h1{
 #header {
   margin: 0 10px 10px 15px;
   width: 90%;
-  display: flex;
-  align-items: center;
 }
 img{
   margin: 10px;
   border-radius: 25%;
   width: 100px; 
   height: 100px;
-  float: right !important;
+  float: right;
 }
 .menu {
   display: none;
